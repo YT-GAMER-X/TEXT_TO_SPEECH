@@ -17,6 +17,8 @@ With this tool you can type text in any language and get the output as voice wit
 * `ls`
 * `cd TEXT_TO_SPEECH`
 * `ls`
+* `chmod 777 TEXT_TO_SPEECH.py`
+* `ls`
 * `python TEXT_TO_SPEECH.py`
 
 # SUBSCRIBER
