@@ -21,5 +21,5 @@ With this tool you can type text in any language and get the output as voice wit
 * `ls`
 * `python TEXT_TO_SPEECH.py`
 
-# SUBSCRIBER
+# SUBSCRIBE
 <a href="https://www.youtube.com/@YT-GAMER-X"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg"> 
